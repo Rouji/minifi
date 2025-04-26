@@ -2,7 +2,8 @@
 
 Fork of the [chocofi](https://github.com/pashutk/chocofi) for Choc Mini (PG1232) through-PCB switches.
 
-![Photo of the backside of the PCB showing the switches sticking through it](/images/backside.jpg)
+![Photo of the backside of the PCB showing the switches sticking through it](images/backside.jpg)
+![Photo of one keyboard half from the top](images/upside.jpg)
 
 Otherwise basically the same as the chocofi, except I'm pretty sure the case won't fit this anymore. (I haven't tested it though)
 
